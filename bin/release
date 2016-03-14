@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 config_vars:
-PATH: $PATH:.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/servant-heroku-exe/servant-heroku-exe
+PATH: $PATH:/app/.local/bin/servant-heroku-exe
 EOF
